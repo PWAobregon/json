@@ -1,0 +1,57 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Michis",
+      "publisher": "Tushar Parmar",
+      "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/portada1.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/1.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/2.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/3.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/4.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/5.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/6.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/7.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/8.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/9.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json/master/10.png",
+          "emojis": ["ðŸ™‚"]
+        },
+      ]
+    }
+  ]
+}
