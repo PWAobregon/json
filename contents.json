@@ -3,7 +3,7 @@
   "sticker_packs": [
    {
       "identifier": "42",
-      "name": movimiento",
+      "name": "movimiento",
       "publisher": "Rose.stickers1",
       "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/portada4.png",
       "publisher_email":"viztushar@gmail.com",
