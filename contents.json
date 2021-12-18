@@ -1,7 +1,99 @@
  {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
-{
+  {
+      "identifier": "65",
+      "name": "Reacciones navideñas",
+      "publisher": "King Stickers",
+      "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/portada28.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/588.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/589.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/590.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/591.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/592.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/593.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/594.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/595.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/596.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/597.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/598.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/599.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/600.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/601.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/602.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/603.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/604.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/605.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/606.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/607.webp",
+          "emojis": ["?","??"]
+        }
+      ]
+    }, 
+    {
       "identifier": "64",
       "name": "Perritos",
       "publisher": "King Stickers",
