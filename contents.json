@@ -12,6 +12,10 @@
       "license_agreement_website": "",
       "stickers": [
         {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/0.webp",
+          "emojis": ["?","??"]
+        },
+        {
           "image_file": "https://raw.githubusercontent.com/PWAobregon/json2/master/689.webp",
           "emojis": ["?","??"]
         },
