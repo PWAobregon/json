@@ -2,7 +2,7 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
 {
-      "identifier": "121 ",
+      "identifier": "121",
       "name": "Minions",
       "publisher": "Riicardo_al",
       "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/portada1.png",
