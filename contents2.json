@@ -2,7 +2,7 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
    {
-      "identifier": "122",
+      "identifier": "123",
       "name": "Flork 9",
       "publisher": "Kane_stickers",
       "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/portada2.png",
