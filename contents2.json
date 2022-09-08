@@ -2,9 +2,9 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
 {
-      "identifier": "122",
-      "name": "TikTok viral",
-      "publisher": "Harley_stickers",
+      "identifier": "128",
+      "name": "Mix",
+      "publisher": "paraguayita_01",
       "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/portada7.png",
       "publisher_email":"viztushar@gmail.com",
       "publisher_website": "",
@@ -72,6 +72,18 @@
         },
         {
           "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/143.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/144.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/145.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/146.webp",
           "emojis": ["?","??"]
         }
       ]
