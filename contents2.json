@@ -1,6 +1,109 @@
  {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
+   {
+      "identifier": "132",
+      "name": "Destruccion",
+      "publisher": "king stickets",
+      "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/portada9.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [
+         {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/196.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/197.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/198.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/199.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/200.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/201.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/202.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/203.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/204.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/205.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/206.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/207.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/208.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/209.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/210.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/211.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/212.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/213.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/214.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/215.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/216.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/217.webp",
+          "emojis": ["?","??"]
+        }
+      ]
+    },
 {
       "identifier": "131",
       "name": "Memes Halloween",
