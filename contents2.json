@@ -1,7 +1,94 @@
  {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
-      {
+   {
+      "identifier": "136",
+      "name": "Medio metro",
+      "publisher": "King stickers",
+      "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/portada8.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/147m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/148m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/149m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/150m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/151m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/152m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/153m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/154m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/155m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/156m.webp",
+          "emojis": ["?","??"]
+        },
+       {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/157m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/158m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/159m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/160m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/161m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/162m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/163m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/164m.webp",
+          "emojis": ["?","??"]
+        }
+      ]
+    },
+     {
       "identifier": "135",
       "name": "Gatitos",
       "publisher": "Renaaacc",
