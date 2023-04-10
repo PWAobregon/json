@@ -1,6 +1,81 @@
  {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
+{
+      "identifier": "146",
+      "name": "Tiktok viral 2",
+      "publisher": "harley stickers",
+      "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/portada12.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/222m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/223m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/224m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/225m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/226m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/227m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/228m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/229m.webp",
+          "emojis": ["?","??"]
+        },
+       {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/230m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/231m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/232m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/233m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/234m.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/235m.webp",
+          "emojis": ["?","??"]
+        },
+       {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json4/main/236m.webp",
+          "emojis": ["?","??"]
+        }
+      ]
+    },
    {
       "identifier": "145",
       "name": "QUBY",
