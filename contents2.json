@@ -1,6 +1,93 @@
  {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
+   {
+      "identifier": "155",
+      "name": "coquette",
+      "publisher": "ig_stickers4wstp",
+      "tray_image_file": "https://raw.githubusercontent.com/PWAobregon/json5/main/portada25.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/526.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/527.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/528.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/529.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/530.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/531.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/532.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/533.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/534.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/535.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/536.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/537.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/538.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/539.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/540.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/541.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/542.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PWAobregon/json5/master/543.webp",
+          "emojis": ["?","??"]
+        }
+      ]
+    },
  {
       "identifier": "154",
       "name": "Facheritos",
